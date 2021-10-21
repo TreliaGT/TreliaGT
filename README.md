@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @TreliaGT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Hi, I’m @TreliaGT**
+I'm a backend web/software developer, I'm in practice to some day be a tutor of programing.
+I specialist in php, js, react js and laravel.
+If need be I can do styling css/sass but I wouldn't say I'm a pro at it yet.
 
-<!---
-TreliaGT/TreliaGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
